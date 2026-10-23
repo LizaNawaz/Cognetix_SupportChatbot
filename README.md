@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Cognetix Support Chatbot
 
@@ -77,3 +78,6 @@ and any observed errors. Do not claim results that have not been measured.
 - Program: Cognetix GenAI Developer Internship
 - GitHub: Add your profile link
 - LinkedIn: Add your profile link
+=======
+# Cognetix_SupportChatbot
+>>>>>>> dbbc8421dc75cf638473a918b8df1cbab686bd65
