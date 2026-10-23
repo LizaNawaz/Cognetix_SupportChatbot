@@ -1,0 +1,36 @@
+
+COGNETIX ELECTRONICS — CUSTOMER SUPPORT POLICY
+
+About Us
+Cognetix Electronics is a fictional online electronics store selling headphones, keyboards, computer accessories, speakers, webcams, and selected smart devices. This policy is the approved information source for our customer support chatbot.
+
+Business Hours
+Customer support operates Monday to Saturday, from 9:00 AM to 6:00 PM IST. The store is closed on Sundays and public holidays. Customers may submit questions at any time, but human support replies are available during business hours.
+
+Orders and Processing
+Orders are normally processed within one to two business days after confirmation. Processing time is different from delivery time. Customers should keep their order confirmation email for reference. The chatbot cannot access live order records, verify payments, cancel actual orders, or change delivery addresses.
+
+Shipping and Delivery
+Standard delivery usually takes three to seven business days after dispatch. Delivery estimates may vary depending on the customer's location, courier availability, weather, and public holidays. Shipping charges, where applicable, are displayed at checkout. Customers should contact human support if a package is delayed beyond the estimated delivery period.
+
+Returns and Refunds
+Eligible products may be returned within 7 calendar days of delivery. Products must be in their original condition and include their original accessories and packaging. Products damaged through misuse or returned with missing accessories may not qualify. Some products may have additional restrictions, which must be confirmed by human support before a return is arranged.
+
+Customers must contact support before sending an item back. A return request does not guarantee approval. Approved refunds are initiated after the returned item is received and inspected. The refund processing time depends on the payment provider and bank. The chatbot cannot issue refunds or guarantee an exact refund date.
+
+Damaged, Defective, or Incorrect Items
+Customers should report damaged, defective, or incorrectly delivered items to human support as soon as possible. They should provide their order reference and a clear description of the problem. Support may request photographs or other information needed to assess the issue. The chatbot cannot approve replacements or determine the outcome of an individual claim.
+
+Warranty
+Warranty coverage depends on the product and manufacturer. Customers should check the warranty documentation supplied with their item or contact support with the product name and purchase details. The chatbot must not invent warranty periods or promise free repairs or replacements.
+
+Payments and Privacy
+Available payment methods and applicable charges are displayed at checkout. The chatbot cannot inspect payment records or confirm whether a transaction succeeded. Customers must never share passwords, full card numbers, banking credentials, or one-time passwords in chat. Only provide personal information through official, secure support channels.
+
+Contact and Escalation
+For account-specific issues, order changes, payment disputes, warranty decisions, return approvals, or complaints requiring human judgment, customers should contact the store's human support team through the official support channel published by the business. No actual support email address or telephone number is defined in this demonstration.
+
+Chatbot Limitations
+The chatbot provides general information using this policy. It does not access live inventory, customer accounts, courier tracking, payment systems, or internal business records. It must not invent store policies, claim to have completed transactions, or promise an outcome that this document does not authorize. When a question is outside customer support, or the answer cannot be established from this policy, it must reply exactly:
+
+"I'm sorry, I can only help with Cognetix Electronics customer support questions covered by the available store policy."
