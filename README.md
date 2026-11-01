@@ -7,11 +7,7 @@ Build a customer support chatbot for a fictional electronics store using
 an OpenAI-compatible LLM API, prompt engineering, streaming, conversation
 memory, and basic scope filtering.
 
-## Live Links
-- Live application: Add after deployment.
-- GitHub repository: Add your repository URL.
-- Demo video: Add your 60-90 second recording.
-- LinkedIn update: Add your post URL.
+
 
 ## Bot Specification
 
